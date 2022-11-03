@@ -1,4 +1,4 @@
-package com.example.flutter_stylized_text
+package com.miriam.flutter_stylized_text
 
 import androidx.annotation.NonNull
 
